@@ -13,10 +13,3 @@ for kelime in kelimeler:
 
 
 
-
-
-
-
-
-
-
