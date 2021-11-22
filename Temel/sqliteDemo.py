@@ -88,4 +88,3 @@ def joinOperasyonlari():
     connection.close()
 
 # joinOperasyonlari()
-
